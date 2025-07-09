@@ -17,6 +17,8 @@ A basic static website hosted using an Ubuntu EC2 instance and Nginx web server.
 3. SSH'd into the instance using `.pem` key
 4. Installed Nginx  
    ```bash
+   ⚠️ Note on Availability
+The hosted project links are temporary and may stop working after the AWS Free Tier expires or if the EC2 instance is terminated. If links are inactive, feel free to clone this repository and deploy the projects on your own.
    
 ## ✅ Project 2: S3 + CloudFront Static Website Hosting
 A static website hosted in a private S3 bucket and delivered globally using CloudFront.
