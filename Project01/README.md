@@ -21,3 +21,6 @@ A live website accessible on the internet, hosted through a fully configured AWS
 
 ## 📝 Screenshots
 ![Webpage Screenshot](./webPageScreenShot.png)
+
+⚠️ Note on Availability
+The hosted project links are temporary and may stop working after the AWS Free Tier expires or if the EC2 instance is terminated. If links are inactive, feel free to clone this repository and deploy the projects on your own.
